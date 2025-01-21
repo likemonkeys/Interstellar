@@ -5,4 +5,5 @@ const config = {
     interstellar: "password",
   },
 };
+
 export default config;
